@@ -1,0 +1,16 @@
+@import '../../common/styles.scss';
+
+.login-container {
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.login-container .login-wrapper {
+    width: 400px;
+}
+
+.error {
+    display: block !important;
+}
